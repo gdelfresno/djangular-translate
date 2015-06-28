@@ -1,0 +1,35 @@
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Test ngtranslate</title>
+        <meta name="author" content="Anton A. Lysenkov" />
+    </head>
+
+    <body>
+        <div>
+            <header>
+                <h1 dj-translatable>Test ngtranslate</h1>
+            </header>
+            <nav>
+                <p>
+                    <a dj-translatable href="/">Word "1"</a>
+                </p>
+                <p>
+                    <a href="/" dj-translatable>Word 2</a>
+                </p>
+            </nav>
+
+            <div>
+                <input type="text" dj-translatable="placeholder" placeholder="Word 3"/>
+            </div>
+
+            <footer>
+                <p>
+                    &copy; {% trans "Copyright"%}
+                </p>
+            </footer>
+        </div>
+    </body>
+</html>

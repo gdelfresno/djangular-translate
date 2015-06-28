@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+djangular_translate.egg-info/PKG-INFO
+djangular_translate.egg-info/SOURCES.txt
+djangular_translate.egg-info/dependency_links.txt
+djangular_translate.egg-info/top_level.txt
+ngtranslate/__init__.py
+ngtranslate/tests.py
+ngtranslate/urls.py
+ngtranslate/views.py
+ngtranslate/management/commands/__init__.py
+ngtranslate/management/commands/__init__.pyc
+ngtranslate/management/commands/makemessages.py
+ngtranslate/management/commands/makemessages.pyc

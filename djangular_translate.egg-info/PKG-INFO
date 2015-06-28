@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: djangular-translate
+Version: 0.0.1
+Summary: Django module to implement i18n support for angularJS applications.
+Home-page: https://github.com/magnitronus/djangular-translate
+Author: Anton Lysenkov
+Author-email: aalisenkov@gmail.com
+License: BSD License
+Description: =====
+        djangular-translate
+        =====
+        
+        Django module to implement i18n support for angularJS applications. 
+        Work together with angular module ng-django-translate 
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
