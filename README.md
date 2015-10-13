@@ -8,6 +8,7 @@ Installation
 =====================
 
 1) pip install git+https://github.com/magnitronus/djangular-translate.git
+
 2) Add 'ngtranslate' to INSTALLED_APPS in settings.py:
 
     INSTALLED_APPS = (...
